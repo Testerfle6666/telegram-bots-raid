@@ -6,8 +6,8 @@ TOKENS = [
 ] # ваши токены от @BotFather
 
 MESSAGES = [
-    "t.me/huis_bn",
-    "@huis_bn"
+    "t.me/flexreyd",
+    "@flexreyd"
 ] # здесь текст вашего спама, обязательно в кавычках и через запятую
 
 COUNT = 10000 # здесь количество сообщений
